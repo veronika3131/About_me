@@ -1,12 +1,12 @@
-{ “info” : [
+[
 	{ 
-	“first_name” : “Veronika”,
-	“last_name” : “Kakapych”,
-	“age” : 20,
-	“region” : “Lviv region, Drohobych”,
-	“position” : “qa engineer”,
-	“experience” : “no work experience on real projects”,
-	“language” : “Ukrainian native, English B1”,
-	“education” : “Software engineering specialist 4-course; Computer science – part-time student”
-} }
+	"first_name" : "Veronika",
+	"last_name" : "Kakapych",
+	"age" : 20,
+	"region" : "Lviv region, Drohobych",
+	"position" : "qa engineer",
+	"experience" : "no work experience on real projects",
+	"language" : "Ukrainian native, English B1",
+	"education" : "Software engineering specialist 4-course; Computer science – part-time student"
+  }
 ]
