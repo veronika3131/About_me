@@ -33,5 +33,6 @@ EDUCATION:
 3. QATestLab course - "Basic Of Software Testing"
 4. Prometheus course - "The Fundamentals Of Software Testing"
 5. Course by Artsiom Rusov on YouTube
+
 MY LINKEDIN: 
 https://www.linkedin.com/in/veronika-kakapych-322517203/
