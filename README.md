@@ -16,6 +16,7 @@ Check-lists;
 Bug reports;
 Test-cases.
 Languages: Ukrainian - Native, English - B1
+
 MY EXPERIENCE:
 QATESTLAB - Course "The fundamentals of software testing" (02.02.2021 - 28.02.2021):
   -Writed bug reports
@@ -27,6 +28,7 @@ Git/GitBash experience:
   -Work with branches
 Postman, Fiddler and Charles:
   -Run requests and analyze responses
+
 EDUCATION: 
 1. Drohobych Mechanical and Technological College (Specialist 4-course), Software Engineering (2017-2021)
 2. West Ukrainian National University (part-time student), Computer Science (2021-now)
