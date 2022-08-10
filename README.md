@@ -9,7 +9,8 @@ MySQL;
 Postman, Fiddler, Charles Proxy;
 DevTools;
 Git/GitBash;
-JIRA;
+TestRail;
+Mantis
 Microsoft Office;
 Excel;
 Check-lists;
