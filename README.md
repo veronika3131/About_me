@@ -10,7 +10,7 @@ Postman, Fiddler, Charles Proxy;
 DevTools;
 Git/GitBash;
 TestRail;
-Mantis
+Mantis;
 Microsoft Office;
 Excel;
 Check-lists;
